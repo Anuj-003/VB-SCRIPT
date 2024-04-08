@@ -1,0 +1,1 @@
+a = msgbox("This is simple text",0,"Hi!")
